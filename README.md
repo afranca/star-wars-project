@@ -1,3 +1,5 @@
+command: npm start
+
 
 This app need to firebase Realtime Databse in order to work
 https://console.firebase.google.com/
